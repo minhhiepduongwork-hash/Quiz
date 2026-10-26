@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Android Quiz</string>
+
+    <string name="q1">Question 1: Single Choice</string>
+    <string name="q1_text">Which language is officially supported for Android development?</string>
+    <string name="q1_A">Kotlin</string>
+    <string name="q1_B">Python</string>
+    <string name="q1_C">Java</string>
+    <string name="q1_D">Swift</string>
+
+    <string name="q2">Question 2: Multiple Choice</string>
+    <string name="q2_text">Which of the following are Jetpack Compose layout components?</string>
+    <string name="q2_A">Column</string>
+    <string name="q2_B">TextField</string>
+    <string name="q2_C">Row</string>
+    <string name="q2_D">Button</string>
+
+    <string name="q3">Question 3: Short Answer</string>
+    <string name="q3_text">Which annotation is used to declare a composable function in Jetpack Compose?</string>
+    <string name="q3_label">Your answer</string>
+    <string name="q3_answer">Answer is: Composable</string>
+
+    <string name="submit_answers">Submit Answers</string>
+    <string name="reset_quiz">Reset Quiz</string>
+
+    <string name="q1_correct">Question 1: Correct</string>
+    <string name="q2_correct">Question 2: Correct</string>
+    <string name="q3_correct">Question 3: Correct</string>
+    <string name="q1_incorrect">Question 1: Incorrect</string>
+    <string name="q2_incorrect">Question 2: Incorrect</string>
+    <string name="q3_incorrect">Question 3: Incorrect</string>
+</resources>
